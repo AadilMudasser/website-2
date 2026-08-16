@@ -15,7 +15,7 @@ function directBookingProps(className, label) {
 }
 
 const PRACTICE_BETTER_BOOKING_URL =
-  "https://my.practicebetter.io/#/69f61f1b777ef99922b864f1/bookings";
+  "aq-wellness-portal.vercel.app";
 const FORM_ENDPOINT = "https://formspree.io/f/xojrjjoz";
 const SITE_NAME = "AQ Wellness";
 const siteLogo = "./src/assets/aq-wellness-logo.png";
